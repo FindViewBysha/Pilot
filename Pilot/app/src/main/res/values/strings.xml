@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pilot</string>
+    <string name="device_unconnected">设备未连接</string>
+    <string name="enter_device">进入设备</string>
+    <string name="device">设备</string>
+    <string name="airline">航线</string>
+    <string name="record">记录</string>
+    <string name="setting">设置</string>
+</resources>
